@@ -18,10 +18,10 @@ network inference workloads.
 - Synthesis: Yosys
 
 ## Results
-[Update with actual numbers once simulation complete]
+
 
 ## Project Structure
-[Describe folders]
+
 
 ## How to Run
-[Add simulation instructions as you build]
+
